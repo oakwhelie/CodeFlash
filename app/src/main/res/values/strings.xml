@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Code Flash</string>
+    <string name="flash">flash</string>
+    <string name="morse_code">morse code</string>
+</resources>
